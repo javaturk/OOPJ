@@ -1,1 +1,1 @@
-This folder includes the slides of Introduction to Object-Oriented Programming with Java.
+This folder includes the slides of training "Introduction to Object-Oriented Programming with Java".
